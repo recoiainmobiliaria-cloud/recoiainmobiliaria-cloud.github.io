@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.recoia.colonia1891",
+        "sha256_cert_fingerprints": ["C4:2F:6C:DF:17:48:67:87:6D:F9:8E:2B:A2:D3:B5:79:12:DE:10:2F:F3:04:4C:91:9E:CE:44:6F:F0:33:46:28"]
+      }
+    }]
